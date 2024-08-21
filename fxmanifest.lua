@@ -1,14 +1,10 @@
 fx_version 'adamant'
 games { 'gta5' }
 
+
 client_scripts {
-  'drilling.lua',
+  'Scaleforms.lua',
+  'drilling.lua'
+ 
 }
 
-shared_scripts {
-  'client/*.lua',
-}
-
-server_scripts {
-  'server/*.lua'
-}
