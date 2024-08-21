@@ -1,4 +1,4 @@
-Scaleforms = exports["meta_libs"]:Scaleforms()
+
 
 Drilling = {}
 
